@@ -1,0 +1,15 @@
+C:\Users\JohnSmith\source\repos\CLass\CLass\bin\Debug\net6.0\CLass.exe
+C:\Users\JohnSmith\source\repos\CLass\CLass\bin\Debug\net6.0\CLass.deps.json
+C:\Users\JohnSmith\source\repos\CLass\CLass\bin\Debug\net6.0\CLass.runtimeconfig.json
+C:\Users\JohnSmith\source\repos\CLass\CLass\bin\Debug\net6.0\CLass.dll
+C:\Users\JohnSmith\source\repos\CLass\CLass\bin\Debug\net6.0\CLass.pdb
+C:\Users\JohnSmith\source\repos\CLass\CLass\obj\Debug\net6.0\CLass.csproj.AssemblyReference.cache
+C:\Users\JohnSmith\source\repos\CLass\CLass\obj\Debug\net6.0\CLass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JohnSmith\source\repos\CLass\CLass\obj\Debug\net6.0\CLass.AssemblyInfoInputs.cache
+C:\Users\JohnSmith\source\repos\CLass\CLass\obj\Debug\net6.0\CLass.AssemblyInfo.cs
+C:\Users\JohnSmith\source\repos\CLass\CLass\obj\Debug\net6.0\CLass.csproj.CoreCompileInputs.cache
+C:\Users\JohnSmith\source\repos\CLass\CLass\obj\Debug\net6.0\CLass.dll
+C:\Users\JohnSmith\source\repos\CLass\CLass\obj\Debug\net6.0\refint\CLass.dll
+C:\Users\JohnSmith\source\repos\CLass\CLass\obj\Debug\net6.0\CLass.pdb
+C:\Users\JohnSmith\source\repos\CLass\CLass\obj\Debug\net6.0\CLass.genruntimeconfig.cache
+C:\Users\JohnSmith\source\repos\CLass\CLass\obj\Debug\net6.0\ref\CLass.dll
